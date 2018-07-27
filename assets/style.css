@@ -1,3 +1,8 @@
-.hero.image {
-    background: url("https://source.unsplash.com/random/");
- }
+.hero-image {
+    background-image: url("photographer.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
