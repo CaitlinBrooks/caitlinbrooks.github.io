@@ -1,8 +1,12 @@
 .hero-image {
     background-image: url("anna-popovic-unsplash.jpg");
-    height: 50%;
+    height: 350px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+
+.resume {
+    padding: 25px 25px;
 }
