@@ -11,11 +11,8 @@
     padding: 25px 25px;
 }
 
-.projects {
-    padding: 50px 50px;
-}
-
 .footer {
     background-color: #3b393b;
-    height: 75px;
+    height: 70px;
+    color: white
 }
