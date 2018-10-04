@@ -16,3 +16,7 @@
     height: 70px;
     color: white
 }
+
+a:link {
+    color: white;
+  }
