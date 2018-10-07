@@ -32,3 +32,12 @@ a:hover {
 a:active {
     color: white;
 }
+
+.secondparallax {
+    background-image: url("https://images.unsplash.com/photo-1445285303476-2f3b16d67b7a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=17f05338004eabae2ebedc81f9358bd3&auto=format&fit=crop&w=750&q=80");
+    min-height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
