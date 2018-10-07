@@ -41,3 +41,7 @@ a:active {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+project {
+min-block-size: 200px;
+}
