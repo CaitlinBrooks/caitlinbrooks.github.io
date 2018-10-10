@@ -1,3 +1,5 @@
+body {margin:0;padding:0}
+
 .hero-image {
     background-image: url("alberto-restifo-mountain.jpg");
     height: 350px;
@@ -40,6 +42,7 @@ a:active {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0px;
 }
 
 * {box-sizing: border-box;}
