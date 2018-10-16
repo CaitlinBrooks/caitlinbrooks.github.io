@@ -13,6 +13,8 @@
 
 .resume {
     padding: 25px 25px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }
 
 .footer {
@@ -44,7 +46,9 @@ a:active {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 0px 0px 0px 0px;
+    /* margin: 0px 0px 0px 0px; */
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }
 
 * {box-sizing: border-box;}
@@ -53,6 +57,8 @@ a:active {
   position: relative;
   width: 50%;
   max-width: 300px;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
 }
 
 .image {
@@ -78,4 +84,9 @@ a:active {
 
 .container:hover .overlay {
   opacity: 1;
+}
+
+.languages{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
 }
