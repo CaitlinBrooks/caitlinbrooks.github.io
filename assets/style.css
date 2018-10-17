@@ -11,6 +11,17 @@
     position: relative;
 }
 
+.display-3{
+    color: whitesmoke
+}
+
+h4 {
+    color: whitesmoke
+}
+
+small {
+    color: whitesmoke
+}
 .resume {
     padding: 25px 25px;
     margin-left: 0px !important;
