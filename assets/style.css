@@ -51,7 +51,8 @@ a:active {
 }
 
 .secondparallax {
-    background-image: url("../assets/white\ vector.PNG");
+    /* background-image: url("../assets/white\ vector.PNG"); */
+    background-image: url("../assets/VectorLanguages2.png");
     min-height: 200px;
     background-attachment: fixed;
     background-position: center;
