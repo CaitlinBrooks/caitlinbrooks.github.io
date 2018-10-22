@@ -101,3 +101,17 @@ a:active {
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
+
+.desc {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    width: calc(100% - 0.25rem);
+    text-align: center;
+}
