@@ -115,7 +115,7 @@ a:active {
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: rgb(53, 53, 53);
+    background-color: rgba(53, 53, 53, 0.472);
   }
   
   .container:hover .overlay {
