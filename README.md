@@ -1,49 +1,49 @@
 # caitlinbrooks.github.io
 
-Project Title
-One Paragraph of project description goes here
+<strong>Project Title</strong><br/>
+One Paragraph of project description goes here<br/>
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<strong>Getting Started</strong><br/>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.<br/>
 
-Prerequisites
-What things you need to install the software and how to install them
-Give examples
+<strong>Prerequisites</strong><br/>
+What things you need to install the software and how to install them<br/>
+Give examples<br/>
 
-Installing
-A step by step series of examples that tell you how to get a development env running
-Say what the step will be
-Give the example
-And repeat
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+<strong>Installing</strong><br/>
+A step by step series of examples that tell you how to get a development env running<br/>
+Say what the step will be<br/>
+Give the example<br/>
+And repeat<br/>
+until finished<br/>
+End with an example of getting some data out of the system or using it for a little demo<br/>
 
-Running Tests
-Explain how to run the automated tests for this system
-Break down into end to end tests
-Explain what these tests test and why
-Give an example
-And coding style tests
-Explain what these tests test and why
-Give an example
+<strong>Running Tests</strong><br/>
+Explain how to run the automated tests for this system<br/>
+Break down into end to end tests<br/>
+Explain what these tests test and why<br/>
+Give an example<br/>
+And coding style tests<br/>
+Explain what these tests test and why<br/>
+Give an example<br/>
 
-Deployment
-Add additional notes about how to deploy this on a live system
+<strong>Deployment</strong><br/>
+Add additional notes about how to deploy this on a live system<br/>
 
-Built With
-Javascript
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+<strong>Built With</strong><br/>
+Javascript<br/>
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.<br/>
 
-Versioning
-For the versions available, see the tags on this repository.
+<strong>Versioning</strong><br/>
+For the versions available, see the tags on this repository.<br/>
 
-Authors
-Caitlin Brooks
+<strong>Author</strong><br/>
+Caitlin Brooks<br/>
 
-Licenses
-This project is licensed under the MIT License - see the LICENSE.md file for details
+<strong>Licenses</strong><br/>
+This project is licensed under the MIT License - see the LICENSE.md file for details<br/>
 
-Acknowledgments
-Hat tips
-Inspiration
-etc.
+<strong>Acknowledgments</strong><br/>
+Hat tips<br/>
+Inspiration<br/>
+etc.<br/>
