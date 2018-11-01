@@ -1,7 +1,7 @@
 # caitlinbrooks.github.io
 
-<strong>Project Title</strong><br/>
-One Paragraph of project description goes here<br/>
+<strong>About</strong><br/>
+This is a landing page for the current porfolio of Caitlin Brooks.<br/>
 
 <strong>Getting Started</strong><br/>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.<br/>
